@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494155055 source:/Users/Tusiu/Documents/Projekty/zapis_danych/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
