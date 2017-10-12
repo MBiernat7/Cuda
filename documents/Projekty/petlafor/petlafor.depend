@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1493634708 source:/Users/Tusiu/Documents/Projekty/petlafor/main.cpp
-	<iostream>
-	<unistd.h>
-

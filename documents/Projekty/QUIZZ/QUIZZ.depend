@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1494159498 source:/Users/Tusiu/Documents/Projekty/QUIZZ/main.cpp
-	<iostream>
-	<fstream>
-	<cstdlib>
-	<algorithm>
-	<string>
-
